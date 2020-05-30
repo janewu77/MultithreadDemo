@@ -7,6 +7,7 @@ import static java.lang.Thread.sleep;
  * @author  JaneW.
  *
  */
+
 public class SimpleRunnableThread implements Runnable {
 
     @Override

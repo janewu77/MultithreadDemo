@@ -6,6 +6,7 @@ package demo1;
  * @author  JaneW.
  *
  */
+
 public class SimpleExtendsThread extends Thread {
 
     @Override

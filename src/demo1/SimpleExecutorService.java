@@ -2,6 +2,12 @@ package demo1;
 
 import java.util.concurrent.*;
 
+/**
+ *
+ * Demo Thread优先级
+ * @author  JaneW.
+ *
+ */
 
 public class SimpleExecutorService {
 

@@ -4,6 +4,13 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
+/**
+ *
+ * Demo Thread优先级
+ * @author  JaneW.
+ *
+ */
+
 class SimpleCallableThread implements Callable<String> {
 
     @Override
