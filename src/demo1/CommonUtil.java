@@ -9,7 +9,7 @@ package demo1;
 
 public class CommonUtil {
     
-    static void outMessage(String message) {
+    static public void outMessage(String message) {
         long now = System.currentTimeMillis();
         String threadName =
                 Thread.currentThread().toString();
