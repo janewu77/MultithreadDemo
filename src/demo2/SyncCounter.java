@@ -1,9 +1,6 @@
 package demo2;
 
-
 import demo1.CommonUtil;
-
-import java.util.Hashtable;
 
 import static java.lang.Thread.sleep;
 
@@ -15,7 +12,6 @@ import static java.lang.Thread.sleep;
 
 public class SyncCounter implements Runnable {
 
-    private Hashtable xx ;
     private static int commCount = 0;
     private static int syncCount = 0;
 
