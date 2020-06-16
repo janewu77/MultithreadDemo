@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 /**
  *
- * Demo Thread优先级
+ * Demo ......
  * @author  JaneW.
  *
  */
@@ -40,7 +40,6 @@ public class SimpleExecutorService {
                     executor.shutdown();
                     return;
                 }
-
 
                 if(!futureTaskA.isDone()){ //等待任务A完成
                     CommonUtil.outMessage("===============");

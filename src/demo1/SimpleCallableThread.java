@@ -6,7 +6,7 @@ import java.util.concurrent.FutureTask;
 
 /**
  *
- * Demo Thread优先级
+ * Demo 通过 Callable 和 Future 创建线程
  * @author  JaneW.
  *
  */
